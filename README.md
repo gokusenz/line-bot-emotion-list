@@ -7,7 +7,7 @@
 As a library
 
 ```shell
-go get github.com/gokusenz/line-bot-emotion-list
+go get github.com/gokusenz/line-bot-emotion-list/runeList
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ import (
 
 func main() {
   message := "0x10002D 0x100077 LINE EMOTION FOR LINE-BOT"
-  message = CheckRune(message)
+  message = runeList.CheckRune(message)
   log.Println(message)
 
 }
