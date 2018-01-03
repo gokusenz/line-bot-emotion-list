@@ -16,7 +16,7 @@ go get github.com/gokusenz/line-bot-emotion-list/runeList
 package main
 
 import (
-    "github.com/gokusenz/line-bot-emotion-list"
+    "github.com/gokusenz/line-bot-emotion-list/runeList"
     "log"
 )
 
