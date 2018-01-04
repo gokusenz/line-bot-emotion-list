@@ -7,7 +7,7 @@
 As a library
 
 ```shell
-go get github.com/gokusenz/line-bot-emotion-list/runeList
+go get github.com/gokusenz/line-bot-emotion-list
 ```
 
 ## Usage
